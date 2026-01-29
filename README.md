@@ -1,11 +1,11 @@
-BÁO CÁO BÀI THỰC HÀNH 1
-I.TỔNG QUÁT NHIỆM VỤ  
-Phần 1: Cấu hình Phần cứng/Phần mềm với Hỗ trợ AI 
-1.1: Tìm hiểu cấu hình phần cứng
-1.2: Cấu hình phần mềm cơ bản
-Phần 2: Giải quyết Sự cố Kỹ thuật Đơn giản với AI
-2.1: Xử lý sự cố kết nối Wi-Fi
-2.2: Xử lý lỗi phần mềm cơ bản
+BÁO CÁO BÀI THỰC HÀNH 1  
+I.TỔNG QUÁT NHIỆM VỤ    
+Phần 1: Cấu hình Phần cứng/Phần mềm với Hỗ trợ AI   
+1.1: Tìm hiểu cấu hình phần cứng  
+1.2: Cấu hình phần mềm cơ bản  
+Phần 2: Giải quyết Sự cố Kỹ thuật Đơn giản với AI  
+2.1: Xử lý sự cố kết nối Wi-Fi  
+2.2: Xử lý lỗi phần mềm cơ bản  
 Phần 3: Ứng dụng Al trong Học tập
 3.1: Tạo nội dung học tập với Canva Al
 3.2: Đánh giá đạo đức khi sử dụng AI
